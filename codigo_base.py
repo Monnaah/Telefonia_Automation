@@ -616,12 +616,192 @@ time.sleep(2)
 pyautogui.click(81,19)
 time.sleep(2)
 # entrar cliente JEREMIAS
-pyautogui.click(, clicks=2)
+pyautogui.click(529,696, clicks=2)
 time.sleep(5)
 # mudar número da fatura
 pyautogui.click(816,690)
 pyautogui.press("delete")
-pyautogui.write("1421")
+pyautogui.write("1426")
+time.sleep(5)
+# mudar data de emissão
+pyautogui.click(184,691)
+pyautogui.press("delete")
+pyautogui.write("22/05/2021")
+time.sleep(5)
+# mudar data de vencimento
+pyautogui.click(605,693)
+pyautogui.press("delete")
+pyautogui.write("30/05/2021")
+pyautogui.click(946,625)
+time.sleep(7)
+# Fazer download
+pyautogui.hotkey("ctrl", "p")
+time.sleep(3)
+pyautogui.click(1834,162)
+time.sleep(5)
+pyautogui.click(1423,897)
+time.sleep(3)
+pyautogui.click(791,667)
+
+# fechar
+time.sleep(2)
+pyautogui.click(500,18)
+time.sleep(2)
+
+# Clicar no drive novamente
+pyautogui.click(81,19)
+time.sleep(2)
+# entrar cliente WAY REGULADORA
+pyautogui.click(536,763, clicks=2)
+time.sleep(5)
+# mudar número da fatura
+pyautogui.click(816,690)
+pyautogui.press("delete")
+pyautogui.write("1427")
+time.sleep(5)
+# mudar data de emissão
+pyautogui.click(184,691)
+pyautogui.press("delete")
+pyautogui.write("22/05/2021")
+time.sleep(5)
+# mudar data de vencimento
+pyautogui.click(605,693)
+pyautogui.press("delete")
+pyautogui.write("30/05/2021")
+pyautogui.click(946,625)
+time.sleep(7)
+# Fazer download
+pyautogui.hotkey("ctrl", "p")
+time.sleep(3)
+pyautogui.click(1834,162)
+time.sleep(5)
+pyautogui.click(1423,897)
+time.sleep(3)
+pyautogui.click(791,667)
+
+# fechar
+time.sleep(2)
+pyautogui.click(500,18)
+time.sleep(2)
+
+# Clicar no drive novamente
+pyautogui.click(81,19)
+time.sleep(2)
+# entrar cliente BIO
+pyautogui.click(523,820, clicks=2)
+time.sleep(5)
+# mudar número da fatura
+pyautogui.click(816,690)
+pyautogui.press("delete")
+pyautogui.write("1428")
+time.sleep(5)
+# mudar data de emissão
+pyautogui.click(184,691)
+pyautogui.press("delete")
+pyautogui.write("22/05/2021")
+time.sleep(5)
+# mudar data de vencimento
+pyautogui.click(605,693)
+pyautogui.press("delete")
+pyautogui.write("30/05/2021")
+pyautogui.click(946,625)
+time.sleep(7)
+# Fazer download
+pyautogui.hotkey("ctrl", "p")
+time.sleep(3)
+pyautogui.click(1834,162)
+time.sleep(5)
+pyautogui.click(1423,897)
+time.sleep(3)
+pyautogui.click(791,667)
+
+# fechar
+time.sleep(2)
+pyautogui.click(500,18)
+time.sleep(2)
+
+# Clicar no drive novamente
+pyautogui.click(81,19)
+time.sleep(2)
+# entrar cliente LDS
+pyautogui.click(519,881, clicks=2)
+time.sleep(5)
+# mudar número da fatura
+pyautogui.click(816,690)
+pyautogui.press("delete")
+pyautogui.write("1429")
+time.sleep(5)
+# mudar data de emissão
+pyautogui.click(184,691)
+pyautogui.press("delete")
+pyautogui.write("22/05/2021")
+time.sleep(5)
+# mudar data de vencimento
+pyautogui.click(605,693)
+pyautogui.press("delete")
+pyautogui.write("30/05/2021")
+pyautogui.click(946,625)
+time.sleep(7)
+# Fazer download
+pyautogui.hotkey("ctrl", "p")
+time.sleep(3)
+pyautogui.click(1834,162)
+time.sleep(5)
+pyautogui.click(1423,897)
+time.sleep(3)
+pyautogui.click(791,667)
+
+# fechar
+time.sleep(2)
+pyautogui.click(500,18)
+time.sleep(2)
+
+# Clicar no drive novamente
+pyautogui.click(81,19)
+time.sleep(2)
+# entrar cliente AV SEGUROS
+pyautogui.click(547,943, clicks=2)
+time.sleep(5)
+# mudar número da fatura
+pyautogui.click(816,690)
+pyautogui.press("delete")
+pyautogui.write("1430")
+time.sleep(5)
+# mudar data de emissão
+pyautogui.click(184,691)
+pyautogui.press("delete")
+pyautogui.write("22/05/2021")
+time.sleep(5)
+# mudar data de vencimento
+pyautogui.click(605,693)
+pyautogui.press("delete")
+pyautogui.write("30/05/2021")
+pyautogui.click(946,625)
+time.sleep(7)
+# Fazer download
+pyautogui.hotkey("ctrl", "p")
+time.sleep(3)
+pyautogui.click(1834,162)
+time.sleep(5)
+pyautogui.click(1423,897)
+time.sleep(3)
+pyautogui.click(791,667)
+
+# fechar
+time.sleep(2)
+pyautogui.click(500,18)
+time.sleep(2)
+
+# Clicar no drive novamente
+pyautogui.click(81,19)
+time.sleep(2)
+# entrar cliente VERMARI
+pyautogui.click(546,1001, clicks=2)
+time.sleep(5)
+# mudar número da fatura
+pyautogui.click(816,690)
+pyautogui.press("delete")
+pyautogui.write("1431")
 time.sleep(5)
 # mudar data de emissão
 pyautogui.click(184,691)
@@ -657,21 +837,8 @@ time.sleep(2)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 """
-# fazer o download
+# fazer o download DO PDF
 pyautogui.click(204,520)
 time.sleep(3)
 # arquivo pdf
